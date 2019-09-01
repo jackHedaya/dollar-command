@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "dollar/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "dollar"
+  spec.name          = "dollar-command"
   spec.version       = Dollar::VERSION
   spec.authors       = ["Jack Hedaya"]
   spec.email         = ["jackehedaya@gmail.com"]

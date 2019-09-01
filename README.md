@@ -10,7 +10,7 @@ Frustrating, isn't it? Here's a simple solution that segues perfectly into insta
 
 ## Installation
 
-+ `$ gem install dollar`
++ `$ gem install dollar-command`
 
 ## Usage
 
