@@ -10,7 +10,7 @@ Frustrating, isn't it? Here's a simple solution that segues perfectly into insta
 
 ## Installation
 
-`+ gem install dollar`
++ `$ gem install dollar`
 
 ## Usage
 
@@ -20,7 +20,7 @@ Quite simple –– the `$` command will pass on all of its arguments as a new c
 
 To install this gem locally during development, run `$ bundle exec rake install`
 
-To release, bump `version.rb` and run `bundle exec rake release`
+To release, bump `version.rb` and run `$ bundle exec rake release`
 
 ## Contributing
 
