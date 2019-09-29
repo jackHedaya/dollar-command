@@ -4,7 +4,11 @@ module Dollar
   class Dollar
     def start
       arguments = ARGV
-
+      
+      if arguments[arguments.length - 1] == "$"
+        arguments.pop
+      end
+      
       if arguments[0] == "$" 
         arguments.shift
       elsif arguments.length < 1 || arguments[0] == "--help" 
