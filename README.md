@@ -1,4 +1,6 @@
 # $ command
+![](https://github.com/jackHedaya/dollar-command/workflows/build/badge.svg)
+
 A simple command to never hear `command not found: $` again!
 
 ### Motive
