@@ -26,7 +26,7 @@ To release, bump `version.rb` and run `$ bundle exec rake release`
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jackHedaya/dollar.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jackHedaya/dollar-command.
 
 ## License
 
